@@ -12,7 +12,7 @@ Every line below is a checkbox. Register format for each: `Concept → 1-line de
 - [x] Closures — syntax, trailing closure syntax, capture lists `[weak self]`, escaping vs non-escaping closures
 - [x] Encapsulation — access control keywords: `private`, `fileprivate`, `internal`, `public`, `open`
 - [x] Inheritance — subclassing, `override`, `super`
-- [ ] Polymorphism — method overriding vs overloading
+- [x] Polymorphism — method overriding vs overloading
 - [ ] Protocol-Oriented Programming — protocols with default implementations via extensions; why Apple recommends POP over class inheritance
 - [ ] Register tabs created: Swift/OOP, Objective-C, UIKit vs SwiftUI, Performance/Profiling, Concurrency, Architecture, Networking/Persistence, Testing/CleanCode/CI-CD/Agile, DSA, Behavioral
 
