@@ -7,8 +7,8 @@ Every line below is a checkbox. Register format for each: `Concept → 1-line de
 
 ## MONDAY — 1 hr — Setup + Core Swift
 
-- [ ] Value types vs reference types — struct/enum (value) vs class (reference); copy-on-write behavior
-- [ ] Optionals — `?`, `!`, `if let`, `guard let`, `??` (nil-coalescing), optional chaining
+- [x] Value types vs reference types — struct/enum (value) vs class (reference); copy-on-write behavior
+- [x] Optionals — `?`, `!`, `if let`, `guard let`, `??` (nil-coalescing), optional chaining
 - [ ] Closures — syntax, trailing closure syntax, capture lists `[weak self]`, escaping vs non-escaping closures
 - [ ] Encapsulation — access control keywords: `private`, `fileprivate`, `internal`, `public`, `open`
 - [ ] Inheritance — subclassing, `override`, `super`
