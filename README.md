@@ -14,7 +14,7 @@ Every line below is a checkbox. Register format for each: `Concept → 1-line de
 - [x] Inheritance — subclassing, `override`, `super`
 - [x] Polymorphism — method overriding vs overloading
 - [x] Protocol-Oriented Programming — protocols with default implementations via extensions; why Apple recommends POP over class inheritance
-- [ ] Register tabs created: Swift/OOP, Objective-C, UIKit vs SwiftUI, Performance/Profiling, Concurrency, Architecture, Networking/Persistence, Testing/CleanCode/CI-CD/Agile, DSA, Behavioral
+- [x] Register tabs created: Swift/OOP, Objective-C, UIKit vs SwiftUI, Performance/Profiling, Concurrency, Architecture, Networking/Persistence, Testing/CleanCode/CI-CD/Agile, DSA, Behavioral
 
 **Sample questions to prep answers for:**
 - [ ] "What's the difference between a struct and a class?"
