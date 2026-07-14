@@ -17,9 +17,9 @@ Every line below is a checkbox. Register format for each: `Concept → 1-line de
 - [x] Register tabs created: Swift/OOP, Objective-C, UIKit vs SwiftUI, Performance/Profiling, Concurrency, Architecture, Networking/Persistence, Testing/CleanCode/CI-CD/Agile, DSA, Behavioral
 
 **Sample questions to prep answers for:**
-- [ ] "What's the difference between a struct and a class?"
-- [ ] "What does `[weak self]` do and when do you need it?"
-- [ ] "What's the difference between `guard let` and `if let`?"
+- [x] "What's the difference between a struct and a class?"
+- [x] "What does `[weak self]` do and when do you need it?"
+- [x] "What's the difference between `guard let` and `if let`?"
 
 ---
 
