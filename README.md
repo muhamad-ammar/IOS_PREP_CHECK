@@ -56,7 +56,7 @@ Every line below is a checkbox. Register format for each: `Concept → 1-line de
 - [x] `@ObservedObject` — observes an external `ObservableObject`, doesn't own its lifecycle
 - [x] `@StateObject` — owns and creates the `ObservableObject` instance (created once per view identity)
 - [x] `@EnvironmentObject` — object injected into the view hierarchy, accessible without explicit passing
-- [ ] `ObservableObject` protocol + `@Published` property wrapper
+- [x] `ObservableObject` protocol + `@Published` property wrapper
 - [ ] View identity & diffing — how SwiftUI decides whether to re-render a view
 - [ ] `some View` — opaque return types, why SwiftUI uses them
 - [ ] View modifiers — order-dependence (e.g. `.padding().background()` vs `.background().padding()`)
