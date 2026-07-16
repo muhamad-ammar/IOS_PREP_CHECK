@@ -51,10 +51,10 @@ Every line below is a checkbox. Register format for each: `Concept → 1-line de
 - [x] `UINavigationController` and `UITabBarController` — navigation stack basics
 
 ### Block 4 (75 min) — SwiftUI deep-dive (your strength — make it airtight)
-- [ ] `@State` — local, private, value-type state owned by the view
-- [ ] `@Binding` — a reference to state owned by a parent view
-- [ ] `@ObservedObject` — observes an external `ObservableObject`, doesn't own its lifecycle
-- [ ] `@StateObject` — owns and creates the `ObservableObject` instance (created once per view identity)
+- [x] `@State` — local, private, value-type state owned by the view
+- [x] `@Binding` — a reference to state owned by a parent view
+- [x] `@ObservedObject` — observes an external `ObservableObject`, doesn't own its lifecycle
+- [x] `@StateObject` — owns and creates the `ObservableObject` instance (created once per view identity)
 - [ ] `@EnvironmentObject` — object injected into the view hierarchy, accessible without explicit passing
 - [ ] `ObservableObject` protocol + `@Published` property wrapper
 - [ ] View identity & diffing — how SwiftUI decides whether to re-render a view
