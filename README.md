@@ -46,8 +46,8 @@ Every line below is a checkbox. Register format for each: `Concept → 1-line de
 - [x] Auto Layout — constraints, `NSLayoutConstraint`, content hugging & compression resistance priority
 - [x] Delegation pattern — protocol + `weak var delegate` + conforming class
 - [x] `UITableView` / `UICollectionView` — data source & delegate protocols, cell reuse via `dequeueReusableCell`, why reuse matters for performance
-- [ ] Storyboards vs programmatic UI vs XIBs — trade-offs
-- [ ] Segues — what they are, how data is passed via `prepare(for:sender:)`
+- [x] Storyboards vs programmatic UI vs XIBs — trade-offs
+- [x] Segues — what they are, how data is passed via `prepare(for:sender:)`
 - [ ] `UINavigationController` and `UITabBarController` — navigation stack basics
 
 ### Block 4 (75 min) — SwiftUI deep-dive (your strength — make it airtight)
