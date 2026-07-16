@@ -35,8 +35,8 @@ Every line below is a checkbox. Register format for each: `Concept → 1-line de
 - [x] Memory management history: manual retain/release (pre-ARC) vs ARC today
 
 ### Block 2 (60 min) — Memory management deep-dive
-- [ ] ARC (Automatic Reference Counting) — how it counts strong references
-- [ ] Strong vs weak vs unowned references — definitions and when to use each
+- [x] ARC (Automatic Reference Counting) — how it counts strong references
+- [x] Strong vs weak vs unowned references — definitions and when to use each
 - [ ] Retain cycles — classic example: closure capturing `self` strongly, or two objects holding strong refs to each other
 - [ ] `weak var delegate` pattern and why delegates are declared weak
 - [ ] Deinitializers (`deinit`) — how to confirm an object was deallocated
