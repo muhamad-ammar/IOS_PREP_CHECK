@@ -26,10 +26,10 @@ Every line below is a checkbox. Register format for each: `Concept → 1-line de
 ## TUESDAY — 5 hrs — Objective-C, UIKit, SwiftUI, Memory
 
 ### Block 1 (60 min) — Objective-C essentials
-- [ ] Basic syntax: `@interface` / `@implementation` / `@end`
+- [x] Basic syntax: `@interface` / `@implementation` / `@end`
 - [ ] Message passing: `[object method:param]` vs Swift's `object.method(param)`
 - [ ] Header files (`.h`) vs implementation files (`.m`) — why Obj-C splits these and Swift doesn't
-- [ ] Properties: `@property (nonatomic, strong) NSString *name;` and what `nonatomic`/`strong` mean
+- [x] Properties: `@property (nonatomic, strong) NSString *name;` and what `nonatomic`/`strong` mean
 - [ ] Nullability annotations: `nullable` / `nonnull`
 - [ ] Swift–Objective-C interop: bridging header, `@objc` attribute, why a company might still have legacy Obj-C modules
 - [ ] Memory management history: manual retain/release (pre-ARC) vs ARC today
