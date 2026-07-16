@@ -42,10 +42,10 @@ Every line below is a checkbox. Register format for each: `Concept → 1-line de
 - [x] Deinitializers (`deinit`) — how to confirm an object was deallocated
 
 ### Block 3 (75 min) — UIKit fundamentals
-- [ ] `UIViewController` lifecycle methods in order: `loadView` → `viewDidLoad` → `viewWillAppear` → `viewDidAppear` → `viewWillDisappear` → `viewDidDisappear`
-- [ ] Auto Layout — constraints, `NSLayoutConstraint`, content hugging & compression resistance priority
-- [ ] Delegation pattern — protocol + `weak var delegate` + conforming class
-- [ ] `UITableView` / `UICollectionView` — data source & delegate protocols, cell reuse via `dequeueReusableCell`, why reuse matters for performance
+- [x] `UIViewController` lifecycle methods in order: `loadView` → `viewDidLoad` → `viewWillAppear` → `viewDidAppear` → `viewWillDisappear` → `viewDidDisappear`
+- [x] Auto Layout — constraints, `NSLayoutConstraint`, content hugging & compression resistance priority
+- [x] Delegation pattern — protocol + `weak var delegate` + conforming class
+- [x] `UITableView` / `UICollectionView` — data source & delegate protocols, cell reuse via `dequeueReusableCell`, why reuse matters for performance
 - [ ] Storyboards vs programmatic UI vs XIBs — trade-offs
 - [ ] Segues — what they are, how data is passed via `prepare(for:sender:)`
 - [ ] `UINavigationController` and `UITabBarController` — navigation stack basics
